@@ -1,4 +1,4 @@
-# x86-nasm-linter
+# x86-nasm-lint
 
 A simple linter written in Python to format x86 nasm assembly.
 
